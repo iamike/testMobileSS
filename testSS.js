@@ -18,140 +18,140 @@ lib.properties = {
 
 
 (lib.Juice_one_00001 = function() {
-	this.spriteSheet = ss["testSS_atlas_"];
+	this.spriteSheet = ss["testSS_atlas_2"];
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00003 = function() {
-	this.spriteSheet = ss["testSS_atlas_2"];
+	this.spriteSheet = ss["testSS_atlas_3"];
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00005 = function() {
-	this.spriteSheet = ss["testSS_atlas_"];
+	this.spriteSheet = ss["testSS_atlas_3"];
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00007 = function() {
-	this.spriteSheet = ss["testSS_atlas_2"];
-	this.gotoAndStop(1);
+	this.spriteSheet = ss["testSS_atlas_3"];
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00009 = function() {
-	this.spriteSheet = ss["testSS_atlas_"];
-	this.gotoAndStop(2);
+	this.spriteSheet = ss["testSS_atlas_3"];
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00011 = function() {
-	this.spriteSheet = ss["testSS_atlas_2"];
-	this.gotoAndStop(2);
+	this.spriteSheet = ss["testSS_atlas_"];
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00013 = function() {
 	this.spriteSheet = ss["testSS_atlas_"];
-	this.gotoAndStop(3);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00015 = function() {
 	this.spriteSheet = ss["testSS_atlas_"];
-	this.gotoAndStop(4);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00017 = function() {
 	this.spriteSheet = ss["testSS_atlas_"];
-	this.gotoAndStop(5);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00019 = function() {
 	this.spriteSheet = ss["testSS_atlas_"];
-	this.gotoAndStop(6);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00021 = function() {
-	this.spriteSheet = ss["testSS_atlas_2"];
-	this.gotoAndStop(3);
+	this.spriteSheet = ss["testSS_atlas_"];
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00023 = function() {
-	this.spriteSheet = ss["testSS_atlas_3"];
-	this.gotoAndStop(0);
+	this.spriteSheet = ss["testSS_atlas_2"];
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00025 = function() {
-	this.spriteSheet = ss["testSS_atlas_3"];
-	this.gotoAndStop(1);
+	this.spriteSheet = ss["testSS_atlas_2"];
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00027 = function() {
 	this.spriteSheet = ss["testSS_atlas_2"];
-	this.gotoAndStop(4);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00028 = function() {
-	this.spriteSheet = ss["testSS_atlas_3"];
-	this.gotoAndStop(2);
+	this.spriteSheet = ss["testSS_atlas_2"];
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00029 = function() {
-	this.spriteSheet = ss["testSS_atlas_2"];
-	this.gotoAndStop(5);
+	this.spriteSheet = ss["testSS_atlas_"];
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00030 = function() {
-	this.spriteSheet = ss["testSS_atlas_2"];
-	this.gotoAndStop(6);
+	this.spriteSheet = ss["testSS_atlas_"];
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00035 = function() {
 	this.spriteSheet = ss["testSS_atlas_2"];
-	this.gotoAndStop(7);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00036 = function() {
 	this.spriteSheet = ss["testSS_atlas_2"];
-	this.gotoAndStop(8);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Juice_one_00039 = function() {
-	this.spriteSheet = ss["testSS_atlas_"];
+	this.spriteSheet = ss["testSS_atlas_2"];
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
@@ -165,8 +165,8 @@ lib.properties = {
 
 
 (lib.Juice_one_00047 = function() {
-	this.spriteSheet = ss["testSS_atlas_3"];
-	this.gotoAndStop(3);
+	this.spriteSheet = ss["testSS_atlas_2"];
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
