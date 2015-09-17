@@ -22,8 +22,6 @@ function init() {
 	loader.addEventListener("fileload", handleFileLoad);
 	loader.addEventListener("complete", handleComplete);
 loader.loadFile({src:"images/testSS_atlas_.json", type:"spritesheet", id:"testSS_atlas_"}, true);
-loader.loadFile({src:"images/testSS_atlas_2.json", type:"spritesheet", id:"testSS_atlas_2"}, true);
-loader.loadFile({src:"images/testSS_atlas_3.json", type:"spritesheet", id:"testSS_atlas_3"}, true);
 	loader.loadManifest(lib.properties.manifest);
 }
 
@@ -34,8 +32,6 @@ function handleFileLoad(evt) {
 function handleComplete(evt) {
 	var queue = evt.target;
 	ss["testSS_atlas_"] = queue.getResult("testSS_atlas_");
-	ss["testSS_atlas_2"] = queue.getResult("testSS_atlas_2");
-	ss["testSS_atlas_3"] = queue.getResult("testSS_atlas_3");
 	exportRoot = new lib.testSS();
 
 	stage = new createjs.Stage(canvas);
